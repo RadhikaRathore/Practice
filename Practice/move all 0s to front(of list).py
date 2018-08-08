@@ -11,3 +11,5 @@ for i in range(arrlen):
         k += 1
 
 print(arr)
+
+#optput = [0, 0, 0, 1, 1, 2]
