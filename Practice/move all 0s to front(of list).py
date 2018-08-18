@@ -13,3 +13,4 @@ for i in range(arrlen):
 print(arr)
 
 #optput = [0, 0, 0, 1, 1, 2]
+#time complexity = O(n)
